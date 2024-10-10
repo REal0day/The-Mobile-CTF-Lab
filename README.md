@@ -1,69 +1,73 @@
 # awesome-mobile-CTF
-This is a curated list of mobile based CTFs, write-ups and vulnerable mobile apps. Most of them are android based due to the popularity of the platform. 
 
-Inspired by [android-security-awesome](https://github.com/ashishb/android-security-awesome), [osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome) and all the other awesome security lists on [@github](https://github.com/search?utf8=%E2%9C%93&q=awesome+security&type=Repositories&ref=searchresults).
+This is a curated list of mobile-based CTFs, write-ups, and vulnerable mobile apps, with a strong emphasis on Android due to its popularity. Inspired by [android-security-awesome](https://github.com/ashishb/android-security-awesome), [osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome), and other great security lists on [@github](https://github.com/search?utf8=%E2%9C%93&q=awesome+security&type=Repositories&ref=searchresults).
 
-## Mobile CTF challenges
-* [Google CTF 2021](https://github.com/google/google-ctf/tree/master/2021/quals/pwn-tridroid)
-* Google CTF 2020 [writeup 1](https://github.com/google/google-ctf/tree/master/2020/quals/reversing-android), [writeup 2](https://github.com/luker983/google-ctf-2020/tree/master/reversing/android)
-* [HacktivityCon CTF Mobile 2020](https://github.com/csivitu/CTF-Write-ups/blob/master/HacktivityCon%20CTF/Mobile/Mobile%20One/mobile_one.apk)
-* [Trend Micro CTF 2020](https://github.com/Hong5489/TrendMicroCTF2020/blob/main/mobile2/Keybox.apk)
-* [KGB Messenger](https://github.com/tlamb96/kgb_messenger)
-* [ASIS CTF — ShareL Walkthrough](https://medium.com/bugbountywriteup/asis-ctf-sharel-walkthrough-da32f3533b40?)
-* [Android reversing challenges](https://github.com/kiyadesu/android-reversing-challenges)
-* [Android app for IOT CTF](https://github.com/atekippe/SecDSM_April_2019_IOT_CTF_Android_APP)
-* [CyberTruck Challenge 2019 (Detroit USA)](https://github.com/nowsecure/cybertruckchallenge19)
-* [Matryoshka-style Android reversing challenge](https://github.com/o-o-overflow/dc2019q-vitor-public)
-* [Cybertruckchallenge19](https://github.com/nowsecure/cybertruckchallenge19)
-* [You Shall Not Pass - BSides Canberra 2019](https://gitlab.com/cybears/fall-of-cybeartron/tree/master/challenges/rev/youshallnotpass)
-* [Mobile challenges collection](https://drive.google.com/folderview?id=0B7rtSe_PH_fTWDQ0RC1DeWVoVUE&usp=sharing)
-* [BSidesSF 2018 CTF](https://github.com/antojoseph/androidCTF)
-* [h1-702-2018-ctf-wu](https://github.com/luc10/h1-702-2018-ctf-wu)
-* [THC CTF 2018 - Reverse - Android serial](https://github.com/ToulouseHackingConvention/bestpig-reverse-android-serial)
-* [Android crack me challenges](https://github.com/reoky/android-crackme-challenge)
-* [OWASP crack me](https://github.com/OWASP/owasp-mstg/tree/master/Crackmes)
-* [Rednaga Challenges](https://github.com/rednaga/training/tree/master/DEFCON23/challenges)
-* [iOS CTF](https://www.ivrodriguez.com/mobile-ctf)
-* [Android Hacking Event 2017: AES-Decrypt](https://team-sik.org/wp-content/uploads/2017/06/AES-Decrypt.apk_.zip)
-* [Android Hacking Event 2017: Token-Generator](https://team-sik.org/wp-content/uploads/2017/06/Token-Generator.apk_.zip)
-* [Android Hacking Event 2017: Flag-Validator](https://team-sik.org/wp-content/uploads/2017/06/FlagValidator.apk_.zip)
-* [Android Hacking Event 2017: You Can Hide – But You Cannot Run](https://team-sik.org/wp-content/uploads/2017/06/YouCanHideButYouCannotRun.apk_.zip)
-* [Android Hacking Event 2017: Why Should I Pay?](https://team-sik.org/wp-content/uploads/2017/06/WhyShouldIPay.apk_.zip)
-* [Android Hacking Event 2017: Esoteric](https://team-sik.org/wp-content/uploads/2017/06/esoteric.apk_.zip)
-* [Android Hacking Event 2016: StrangeCalculator](https://team-sik.org/wp-content/uploads/2016/06/strangecalculator.apk_.zip)
-* [Android Hacking Event 2016: ReverseMe](https://team-sik.org/wp-content/uploads/2016/06/ReverseMe.apk_.zip)
-* [Android Hacking Event 2016: ABunchOfNative](https://team-sik.org/wp-content/uploads/2016/06/aBunchOfNative.apk_.zip)
-* [Android Hacking Event 2016: DynChallenge](https://team-sik.org/wp-content/uploads/2016/06/dynChallenge.apk_.zip)
-* [PicoCTF-2014: Pickle Jar - 30](http://shell-storm.org/repo/CTF/PicoCTF-2014/Forensics/Pickle%20Jar%20-%2030/)
-* [PicoCTF-2014: Revenge of the Bleichenbacher](http://shell-storm.org/repo/CTF/PicoCTF-2014/crypto/Revenge%20of%20the%20Bleichenbacher%20-%20170/)
-* [Android MIT LL CTF 2013](https://github.com/huyle333/androidmitllctf2013)
-* [Evil Planner Bsides Challenge](https://labs.mwrinfosecurity.com/blog/2013/03/11/bsides-challenge/)
-* [Crack-Mes](http://www.droidsec.org/wiki/#crack-mes)
-* [GreHack-2012 - GrehAndroidMe](http://shell-storm.org/repo/CTF/GreHack-2012/reverse_engineering/100-GrehAndroidMe.apk/)
-* [Hackplayers.com Crackmes (in Spanish so an extra challenge): crackme 1 ](http://www.hackplayers.com/2010/12/reto-android-crackme1.html)
-* [Hackplayers.com Crackmes (in Spanish so an extra challenge): crackme 2](http://www.hackplayers.com/2011/12/reto-14-android-crackme2.html)
-* [Hack.Lu's CTF 2011 Reverse Engineering 300](http://shell-storm.org/repo/CTF/Hacklu-2011/Reversing/Space%20Station%200xB321054A%20(300)/)
-* [Androidcracking.blogspot.com's Crackme’s: cracker 0](http://androidcracking.blogspot.com/2012/01/way-of-android-cracker-0-rewrite.html)
-* [Androidcracking.blogspot.com's Crackme’s: cracker 1](http://androidcracking.blogspot.com/2010/10/way-of-android-cracker-1.html)
-* [Insomnia'hack-2K11](http://shell-storm.org/repo/CTF/Insomnia'hack-2K11/Reverse/validate.apk)
-* [CSAW-2011: Reversing101](http://shell-storm.org/repo/CTF/CSAW-2011/Reversing/Reversing101%20-%20100%20Points/)
-* [Defcon-19-quals: Binary_L33tness](http://shell-storm.org/repo/CTF/Defcon-19-quals/Binary_L33tness/b300/)
-* [Crack me's](https://github.com/as0ler/Android-Examples)
-* [SecuInside: CTF2011](http://big-daddy.fr/repository/CTF2011/SecuInside-CTF/Q7/)
-* [EnoWars-CTF2011: broken_droid](http://big-daddy.fr/repository/CTF2011/EnoWars-CTF/broken_droid/)
-* [Anonim1133](https://github.com/anonim1133/CTF)
-* [Challenge4ctf](https://github.com/CvvT/challenge_for_ctf)
-* [Ctfpro](https://github.com/jhong01/ctfpro)
-* [CTFDroid](https://github.com/rajasaur/CTFDroid)
-* [Android_ctf](https://github.com/artwyman/android_ctf)
-* [Robot CTF Android](https://github.com/KappaEtaKappa/Robot-CTF-android)
-* [Cl.ctfk](https://github.com/CTFK/cl.ctfk)
-* [Cryptax](https://github.com/cryptax/challenges)
+## Table of Contents
+
+- [CTF Writeups](#ctf-writeups)
+  - [2024](#2024)
+  - [2023](#2023) 
+  - [2022](#2022)
+  - [2021](#2021)
+  - [2020](#2020)
+  - [2019](#2019)
+  - [2018](#2018)
+  - [2017](#2017)
+  - [2016](#2016)
+  - [2015](#2015)
+  - [2014](#2014)
+  - [2013](#2013)
+  - [2012](#2012)
+    
+- [Mobile CTF Challenges](#mobile-ctf-challenges)
+  - [2024](#2024)
+  - [2023](#2023) 
+  - [2022](#2022)
+  - [2021](#2021)
+  - [2020](#2020)
+  - [2019](#2019)
+  - [2018](#2018)
+  - [2017](#2017)
+  - [2016](#2016)
+  - [2015](#2015)
+  - [2014](#2014)
+  - [2013](#2013)
+  - [2012](#2012)
+    
+- [Vulnerable Mobile Apps](#vulnerable-mobile-apps)
+  - [Android](#android)
+  - [iOS](#ios)
+    
+- [Vulnerable APIs](#vulnerable-apis)
+  
+- [Vulnerable Web Apps](#vulnerable-web-apps)
+  - [Node](#node)
+  - [PHP](#php)
+  - [SQL](#sql)
+  - [Python](#python)
+  - [Java](#java)
+  - [Ruby on Rails](#ruby-on-rails)
+  - [C++](#c++)
+  - [.NET](#net)
+  - [ColdFusion](#coldfusion)
+    
+- [Mobile Security Resources](#mobile-security-resources)
+  
+- [Infosec Resources](#infosec-resources)
+  
+- [Mobile Security Standards](#mobile-security-standards)
+  
+- [Credits](#credits)
 
 ## CTF Writeups
+
+### 2024
+
+### 2023
+
 ### 2022
-* [NahamCon CTF 2022 Write-up: Click Me! Android challenge](https://infosecwriteups.com/nahamcon-ctf-2022-write-up-click-me-android-challenge-63ccba7cb663)
-* [MRCTF2022-Stuuuuub](https://github.com/LLeavesG/MRCTF2022-Stuuuuub)
+- [NahamCon CTF 2022 Write-up: Click Me! Android challenge](https://infosecwriteups.com/nahamcon-ctf-2022-write-up-click-me-android-challenge-63ccba7cb663)
+- [MRCTF2022-Stuuuuub](https://github.com/LLeavesG/MRCTF2022-Stuuuuub)
 
 ### 2021
 * H@cktivityCon 2021 CTF - [writeup 1](https://blog.ikuamike.io/posts/2021/hacktivitycon-2021-ctf/), [writeup 2](https://infosecwriteups.com/h-cktivitycon-2021-ctf-writeup-reactor-android-challenge-85d1d03d4502)
@@ -168,7 +172,7 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [Polictf 2015: crack-me-if-you-can](https://github.com/ctfs/write-ups-2015/tree/9b3c290275718ff843c409842d738e6ef3e565fd/polictf-2015/reversing/crack-me-if-you-can)
 * [Icectf-2015: Husavik](https://github.com/ctfs/write-ups-2015/tree/9b3c290275718ff843c409842d738e6ef3e565fd/icectf-2015/forensics/husavik)
 
-## 2014
+### 2014
 * [Qiwi-ctf-2014: not-so-one-time](https://github.com/ctfs/write-ups-2014/tree/b02bcbb2737907dd0aa39c5d4df1d1e270958f54/qiwi-ctf-2014/not-so-one-time)
 * [Fdfpico-ctf-2014: droid-app-80](https://github.com/ctfs/write-ups-2014/tree/b02bcbb2737907dd0aa39c5d4df1d1e270958f54/pico-ctf-2014/forensics/droid-app-80)
 * [Su-ctf-quals-2014: commercial_application](https://github.com/ctfs/write-ups-2014/tree/b02bcbb2737907dd0aa39c5d4df1d1e270958f54/su-ctf-quals-2014/commercial_application)
@@ -182,17 +186,114 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [PicoCTF-2014: Droid App](http://shell-storm.org/repo/CTF/PicoCTF-2014/Forensics/Droid%20App%20-%2080/)
 * [NDH2k14-wargames: crackme200-ChunkNorris](http://shell-storm.org/repo/CTF/NDH2k14-wargames/crackme200-ChunkNorris/)
 
-## 2013
+### 2013
 * [Hack.lu CTF 2013: Robot Plans](https://github.com/ctfs/write-ups-2013/tree/816de23a940856c10987b5047823de48a192c270/hack-lu-ctf-2013/internals/Robot-Plans)
 * [CSAW Quals CTF 2015: Herpderper](https://github.com/ctfs/write-ups-2013/tree/816de23a940856c10987b5047823de48a192c270/csaw-quals-2013/web/herpderper-300)
 
-## 2012
+### 2012
 * [Atast CTF 2012 Bin 300](http://andromedactf.wordpress.com/2013/01/02/atast-ctf-2012-bin300chall5/)
 
-## Misc
-* [Nuit du Hack's 2k12 & 2k11 (pre-quals and finals) Android Crackme’s 2](http://blog.spiderboy.fr/tag/crackme/)
 
-## Vulnerable Mobile apps:
+
+
+## Mobile CTF Challenges
+
+### 2021
+* [Google CTF 2021](https://github.com/google/google-ctf/tree/master/2021/quals/pwn-tridroid)
+
+### 2020
+* Google CTF 2020 [writeup 1](https://github.com/google/google-ctf/tree/master/2020/quals/reversing-android), [writeup 2](https://github.com/luker983/google-ctf-2020/tree/master/reversing/android)
+* [HacktivityCon CTF Mobile 2020](https://github.com/csivitu/CTF-Write-ups/blob/master/HacktivityCon%20CTF/Mobile/Mobile%20One/mobile_one.apk)
+* [Trend Micro CTF 2020](https://github.com/Hong5489/TrendMicroCTF2020/blob/main/mobile2/Keybox.apk)
+* [OWASP crack me](https://github.com/OWASP/owasp-mstg/tree/master/Crackmes)
+
+### 2019
+* [Android app for IOT CTF](https://github.com/atekippe/SecDSM_April_2019_IOT_CTF_Android_APP)
+* [CyberTruck Challenge 2019 (Detroit USA)](https://github.com/nowsecure/cybertruckchallenge19)
+* [Matryoshka-style Android reversing challenge](https://github.com/o-o-overflow/dc2019q-vitor-public)
+* [You Shall Not Pass - BSides Canberra 2019](https://gitlab.com/cybears/fall-of-cybeartron/tree/master/challenges/rev/youshallnotpass)
+* [ASIS CTF — ShareL Walkthrough](https://medium.com/bugbountywriteup/asis-ctf-sharel-walkthrough-da32f3533b40?)
+
+### 2018
+* [BSidesSF 2018 CTF](https://github.com/antojoseph/androidCTF)
+* [h1-702-2018-ctf-wu](https://github.com/luc10/h1-702-2018-ctf-wu)
+* [THC CTF 2018 - Reverse - Android serial](https://github.com/ToulouseHackingConvention/bestpig-reverse-android-serial)
+* [KGB Messenger](https://github.com/tlamb96/kgb_messenger)
+
+### 2017
+* [Android Hacking Event 2017: AES-Decrypt](https://team-sik.org/wp-content/uploads/2017/06/AES-Decrypt.apk_.zip)
+* [Android Hacking Event 2017: Token-Generator](https://team-sik.org/wp-content/uploads/2017/06/Token-Generator.apk_.zip)
+* [Android Hacking Event 2017: Flag-Validator](https://team-sik.org/wp-content/uploads/2017/06/FlagValidator.apk_.zip)
+* [Android Hacking Event 2017: You Can Hide – But You Cannot Run](https://team-sik.org/wp-content/uploads/2017/06/YouCanHideButYouCannotRun.apk_.zip)
+* [Android Hacking Event 2017: Why Should I Pay?](https://team-sik.org/wp-content/uploads/2017/06/WhyShouldIPay.apk_.zip)
+* [Android Hacking Event 2017: Esoteric](https://team-sik.org/wp-content/uploads/2017/06/esoteric.apk_.zip)
+* [Android reversing challenges](https://github.com/kiyadesu/android-reversing-challenges)
+* [iOS CTF](https://www.ivrodriguez.com/mobile-ctf)
+
+### 2016
+* [Android Hacking Event 2016: StrangeCalculator](https://team-sik.org/wp-content/uploads/2016/06/strangecalculator.apk_.zip)
+* [Android Hacking Event 2016: ReverseMe](https://team-sik.org/wp-content/uploads/2016/06/ReverseMe.apk_.zip)
+* [Android Hacking Event 2016: ABunchOfNative](https://team-sik.org/wp-content/uploads/2016/06/aBunchOfNative.apk_.zip)
+* [Android Hacking Event 2016: DynChallenge](https://team-sik.org/wp-content/uploads/2016/06/dynChallenge.apk_.zip)
+* [Challenge4ctf](https://github.com/CvvT/challenge_for_ctf)
+* [Android_ctf](https://github.com/artwyman/android_ctf)
+* [Cryptax](https://github.com/cryptax/challenges)
+
+### 2015
+* [Rednaga Challenges](https://github.com/rednaga/training/tree/master/DEFCON23/challenges)
+* [Crack me's](https://github.com/as0ler/Android-Examples)
+* [Robot CTF Android](https://github.com/KappaEtaKappa/Robot-CTF-android)
+
+### 2014
+* [PicoCTF-2014: Pickle Jar - 30](http://shell-storm.org/repo/CTF/PicoCTF-2014/Forensics/Pickle%20Jar%20-%2030/)
+* [PicoCTF-2014: Revenge of the Bleichenbacher](http://shell-storm.org/repo/CTF/PicoCTF-2014/crypto/Revenge%20of%20the%20Bleichenbacher%20-%20170/)
+* [Android crack me challenges](https://github.com/reoky/android-crackme-challenge)
+* [Anonim1133](https://github.com/anonim1133/CTF)
+* [Ctfpro](https://github.com/jhong01/ctfpro)
+
+### 2013
+* [Android MIT LL CTF 2013](https://github.com/huyle333/androidmitllctf2013)
+* [Evil Planner Bsides Challenge](https://labs.mwrinfosecurity.com/blog/2013/03/11/bsides-challenge/)
+
+### 2012
+* [GreHack-2012 - GrehAndroidMe](http://shell-storm.org/repo/CTF/GreHack-2012/reverse_engineering/100-GrehAndroidMe.apk/)
+* [Nuit du Hack's 2k12 & 2k11 (pre-quals and finals) Android Crackme’s 2](http://blog.spiderboy.fr/tag/crackme/)
+* [Cl.ctfk](https://github.com/CTFK/cl.ctfk)
+
+### 2011
+* [Hack.Lu's CTF 2011 Reverse Engineering 300](http://shell-storm.org/repo/CTF/Hacklu-2011/Reversing/Space%20Station%200xB321054A%20(300)/)
+* [Insomnia'hack-2K11](http://shell-storm.org/repo/CTF/Insomnia'hack-2K11/Reverse/validate.apk)
+* [CSAW-2011: Reversing101](http://shell-storm.org/repo/CTF/CSAW-2011/Reversing/Reversing101%20-%20100%20Points/)
+* [Defcon-19-quals: Binary_L33tness](http://shell-storm.org/repo/CTF/Defcon-19-quals/Binary_L33tness/b300/)
+* [SecuInside: CTF2011](http://big-daddy.fr/repository/CTF2011/SecuInside-CTF/Q7/)
+* [EnoWars-CTF2011: broken_droid](http://big-daddy.fr/repository/CTF2011/EnoWars-CTF/broken_droid/)
+* [Hackplayers.com Crackmes (in Spanish so an extra challenge): crackme 2](http://www.hackplayers.com/2011/12/reto-14-android-crackme2.html)
+
+### 2010
+* [Hackplayers.com Crackmes (in Spanish so an extra challenge): crackme 1](http://www.hackplayers.com/2010/12/reto-android-crackme1.html)
+* [CTFDroid](https://github.com/rajasaur/CTFDroid)
+
+### Miscellaneous / No Year
+* [Mobile challenges collection](https://drive.google.com/folderview?id=0B7rtSe_PH_fTWDQ0RC1DeWVoVUE&usp=sharing)
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Vulnerable Mobile Apps
+
 ### Android
 * [Allsafe](https://github.com/t0thkr1s/allsafe) 
 * [InsecureShop](https://github.com/optiv/Insecureshop)
@@ -225,7 +326,6 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [Damn Vulnerable iOS App (DVIA)](https://github.com/prateek147/DVIA)
 * [Damn Vulnerable iOS App (DVIA) v2](https://github.com/prateek147/DVIA-v2)
 
-
 ## Vulnerable APIs:
 * [Vapi](https://github.com/roottusk/vapi)
 * [VAmPI](https://github.com/erev0s/VAmPI)
@@ -233,7 +333,8 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [vAPI](https://github.com/jorritfolmer/vulnerable-api)
 
 
-## Vulnerable Web apps:
+## Vulnerable Web Apps
+
 ### Node
 * [Damn Vulnerable Web Service](https://github.com/snoopysecurity/dvws-node)
 * [Damn Vulnerable NodeJS Application](https://github.com/appsecco/dvna)
@@ -273,7 +374,7 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [Twiterlike](https://github.com/sakti/twitterlike)
 * [UltimateLAMP](https://download.vulnhub.com/ultimatelamp/UltimateLAMP-0.2.zip)
 
-## Sql
+### Sql
 * [SQLI-labs](https://github.com/Audi-1/sqli-labs)
 * [Testenv](https://github.com/sqlmapproject/testenv)
 
@@ -302,7 +403,9 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 ### ColdFusion
 * [Hacme Shipping](http://www.mcafee.com/us/downloads/free-tools/hacmeshipping.aspx)
 
-## Mobile security resources
+
+
+## Mobile Security Resources
 * [Mobile app pentest cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
 * [Android security awesome](https://github.com/ashishb/android-security-awesome)
 * [Android security reference](https://github.com/doridori/Android-Security-Reference)
@@ -314,6 +417,7 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [Nyxbone](http://www.nyxbone.com/malware/android_tools.html)
 * [Nowhere](https://n0where.net/best-android-security-resources/)
 * [Secmobi](https://github.com/secmobi/wiki.secmobi.com)
+* [Crack-Mes](http://www.droidsec.org/wiki/#crack-mes)
 
 ## Infosec resources
 * [OSX-iOS-reverse-engineering](https://github.com/michalmalik/osx-re-101)
@@ -341,8 +445,24 @@ Inspired by [android-security-awesome](https://github.com/ashishb/android-securi
 * [OWASP Mobile Application Security Verification Standard (MASVS)](https://github.com/OWASP/owasp-masvs)
 * [OWASP Mobile Security Testing Guide (MSTG)](https://github.com/OWASP/owasp-mstg)
 
-# Credits
+## Credits
 * http://carnal0wnage.attackresearch.com/2013/08/want-to-break-some-android-apps.html
 * https://www.owasp.org/index.php
 * https://github.com/ctfs
 * http://shell-storm.org/repo/
+
+--------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
