@@ -62,13 +62,30 @@ This is a curated list of mobile-based CTFs, write-ups, and vulnerable mobile ap
 ## CTF Writeups
 
 ### 2024
+If you are reading this, and you do mobile CTFs, contribute on CTFTime and you'll see your sh*t here.
 
 ### 2023
+* [BackdoorCTF 2023 Rev/Sl4ydroid](https://seall.dev/posts/backdoorctf2023#revsl4ydroid-55-solves)
+* [CyberSecurityRumble CTF](https://ik0ri4n.de/rumble-23#exterminate)
+* [BSidesTLV 2023 CTF - KeyHunter](https://github.com/evyatar9/Writeups/tree/master/CTFs/2023-BSidesTLV/Mobile/464-KeyHunter)
+* [UMDCTF 2023 - JNIdorino](https://ctftime.org/writeup/37170)
+* [UMDCTF 2023 - Pokeball Escape](https://ctftime.org/writeup/37169)
+* [UMDCTF 2023 - Whos That Pokemon](https://ctftime.org/writeup/37168)
 
 ### 2022
-- [NahamCon CTF 2022 Write-up: Click Me! Android challenge](https://infosecwriteups.com/nahamcon-ctf-2022-write-up-click-me-android-challenge-63ccba7cb663)
-- [MRCTF2022-Stuuuuub](https://github.com/LLeavesG/MRCTF2022-Stuuuuub)
-
+* [NahamCon CTF 2022 - Click Me!](https://infosecwriteups.com/nahamcon-ctf-2022-write-up-click-me-android-challenge-63ccba7cb663)
+* [NahamCon CTF 2022 - Secure Notes](https://github.com/evyatar9/Writeups/tree/master/CTFs/2022-NahamCon_CTF/Mobile/Secure_Notes)
+* [NahamCon CTF 2022 - OTP Vault](https://muhammad-alief.medium.com/nahamcon-ctf-2022-writeup-android-reverse-engineering-otp-vault-870e22d2ac50)
+* [NahamCon CTF 2022 - Mobilize](https://codingmace.gitbook.io/masterward/ctf/2022/nahamcon-ctf-2022#mobilize)
+* [MRCTF2022-Stuuuuub](https://github.com/LLeavesG/MRCTF2022-Stuuuuub)
+* [CyberSecurityRumble CTF - THREE LITTLE KEYS](https://github.com/xXLeoXxOne/writeups/blob/main/CyberSecurityRumble%202022/THREE%20LITTLE%20KEYS.md)
+* [WMCTF2022 - WM Baby Droid](https://teamrocketist.github.io/2022/08/23/Pwn-WMCTF2022-WM-Baby-Droid/)
+* [Hacky Holidays - Unlock the City - Unlock Train Data](https://github.com/a-r-r-o-w/capture-the-flag/tree/master/writeups/hacky-holidays-deloitte-2022/downtown/easy-unlock-train-data)
+* [ Hacky Holidays - Unlock the City - Identify yourself](https://github.com/Matilda12390/Hacky-Holidays-CTF-Writeups/blob/main/Identify%20Yourself/Writeup.md)
+* [Grey Cat The Flag 2022 - Memory Game (Part 2)](https://rainbowpigeon.me/posts/grey-cat-the-flag-qualifiers-2022/#-memory-game-part-2)
+* [Grey Cat The Flag 2022 - Memory Game (Part 1)](https://rainbowpigeon.me/posts/grey-cat-the-flag-qualifiers-2022/#-memory-game-part-1)
+* [1337UP LIVE CTF - Gandalf's Interface](https://github.com/pymivn/ctf/blob/main/2022-1337UP-LIVE-CTF/GandalfsInterface.md)
+ 
 ### 2021
 * H@cktivityCon 2021 CTF - [writeup 1](https://blog.ikuamike.io/posts/2021/hacktivitycon-2021-ctf/), [writeup 2](https://infosecwriteups.com/h-cktivitycon-2021-ctf-writeup-reactor-android-challenge-85d1d03d4502)
 * [Write-up du CTF Android](https://evabssi.com/write-up-du-ctf-android/)
