@@ -2,7 +2,7 @@
 
 # awesome-mobile-CTF
 
-This is a curated list of mobile-based CTFs, write-ups, and vulnerable mobile apps, with a strong emphasis on Android due to its popularity. Inspired by [android-security-awesome](https://github.com/ashishb/android-security-awesome), [osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome), and other great security lists on [@github](https://github.com/search?utf8=%E2%9C%93&q=awesome+security&type=Repositories&ref=searchresults).
+This is a curated list of mobile-based CTFs, write-ups, and vulnerable mobile apps, with a strong emphasis on Android due to its popularity. Inspired by, [xtiankisutsa - android-security-awesome](https://github.com/ashishb/android-security-awesome), [osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome), and other great security lists on [@github](https://github.com/search?utf8=%E2%9C%93&q=awesome+security&type=Repositories&ref=searchresults).
 
 ## Table of Contents
 
