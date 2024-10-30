@@ -464,6 +464,26 @@ If you are reading this, and you do mobile CTFs, contribute on CTFTime and you'l
 * [OWASP Mobile Application Security Verification Standard (MASVS)](https://github.com/OWASP/owasp-masvs)
 * [OWASP Mobile Security Testing Guide (MSTG)](https://github.com/OWASP/owasp-mstg)
 
+## Unsorted
+### RATs
+* https://github.com/Th30neAnd0nly/AIRAVAT
+* https://github.com/Ro9ueAdmin/EvilApp
+* https://github.com/morpheuslord/QuadraInspect
+* https://github.com/AbyssalArmy/ZenRat
+* https://github.com/shivaya-dav/DogeRat-Premium
+* https://github.com/Ch0pin/Android-RAT---Hawkshaw
+
+### Rooting
+* https://github.com/hojatsajadinia/AndRoPass
+* https://github.com/F4dl0/keydroid
+
+### Phishing
+* https://github.com/kinghacker0/WishFish
+* https://github.com/JasonJerry/lockphish
+
+### Other
+* https://github.com/papusingh2sms/mysms
+
 ## Credits
 * http://carnal0wnage.attackresearch.com/2013/08/want-to-break-some-android-apps.html
 * https://www.owasp.org/index.php
