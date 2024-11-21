@@ -64,7 +64,7 @@ This is a curated list of mobile-based CTFs, write-ups, and vulnerable mobile ap
 ## CTF Writeups
 
 ### 2024
-If you are reading this, and you do mobile CTFs, contribute on CTFTime and you'll see your sh*t here.
+* [PwnSec CTF 2024 ](https://medium.com/@Handoumeh/pwnsec-ctf-2024-mobile-1b373affd69b)
 
 ### 2023
 * [BackdoorCTF 2023 Rev/Sl4ydroid](https://seall.dev/posts/backdoorctf2023#revsl4ydroid-55-solves)
